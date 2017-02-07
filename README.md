@@ -1,4 +1,3 @@
-# meta-tags-for-seo
 Full list of Meta Tags for SEO
 
 ## Basic HTML Meta Tags
