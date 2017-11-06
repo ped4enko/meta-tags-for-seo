@@ -2,7 +2,7 @@ Full list of Meta Tags for SEO
 
 ## Basic HTML Meta Tags
 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://www.froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Full%20list%20of%20Meta%20Tags%20for%20SEO&url=https://github.com/ped4enko/meta-tags-for-seo&hashtags=SEO,design,templates,ped4enko,developers)
 
 ``` html
 <meta charset='UTF-8'>
